@@ -1,0 +1,7 @@
+{
+  "ads_enabled": true,
+  "rewarded_enabled": true,
+  "interstitial_enabled": true,
+  "interstitial_every": 3,
+  "interstitial_min_seconds": 120
+}
